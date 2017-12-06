@@ -79,7 +79,7 @@
                 	<ul class="tabs">
                     	<li class="tmenu"><a href="#profile" class="tab-profile">Profile</a></li>
                     	<li class="tmenu"><a href="#resume" class="tab-resume">Resume</a></li>
-                    	<li class="tmenu"><a href="#portfolio" class="tab-portfolio">Projects</a></li>
+                    	<li class="tmenu"><a href="#portfolio" class="tab-portfolio">Portfolio</a></li>
                     	<li class="tmenu"><a href="#contact" class="tab-contact">Contact</a></li>
                     </ul>
                 </div>
@@ -148,7 +148,7 @@
                         <ul class="skills">
                             <li>
                                 <h4>English</h4>
-                                <span class="rat7"></span>
+                                <span class="rat6"></span>
                             </li>
                             <li>
                                 <h4>Korean</h4>
@@ -156,32 +156,32 @@
                             </li>
                             <li>
                                 <h4>Chinese</h4>
-                                <span class="rat4"></span>
+                                <span class="rat5"></span>
                             </li> 
                             <li>
-                                <h4>Spanish</h4>
-                                <span class="rat2"></span>
+                                <h4>Japanese</h4>
+                                <span class="rat4"></span>
                             </li>
                         </ul>
                    
                         <h3 class="main-heading"><span>Programming Skills</span></h3> 
                         <ul class="skills">
                             <li>
-                                <h4>Javascript</h4>
-                                <span class="rat5"></span>
+                                <h4>Dreamweaver</h4>
+                                <span class="rat4"></span>
                             </li>
                             <li>
                                 <h4>Php/Sql</h4>
-                                <span class="rat3"></span>
+                                <span class="rat2"></span>
                             </li>
                             <li>
-                                <h4>Python</h4>
-                                <span class="rat4"></span>
+                                <h4>Javascript</h4>
+                                <span class="rat6"></span>
                             </li>
-                            <!-- <li>
+                            <li>
                                 <h4>Wordpress</h4>
                                 <span class="rat5"></span>
-                            </li> -->
+                            </li>
                             <li>
                                 <h4>Drupal</h4>
                                 <span class="rat3"></span>
